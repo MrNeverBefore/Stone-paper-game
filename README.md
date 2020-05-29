@@ -19,3 +19,9 @@ In 3rd part we try to implemnt above logic in continue manner and try to predict
 In 4th we make a read write file to store the scores of player
 
 In 5th part we desine our game by adding greeting in the begning and others</p>
+
+
+<h3>Conclusion</h3>
+
+By using this logic you can make a game.
+We can give this game a graphical interface by implementing this in web or in apk.
